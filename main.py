@@ -57,7 +57,7 @@ def check_unreturned(file_path):
 
     df = df.dropna(axis=1, how="all")
 
-    part_col = "TG 품번"
+    part_col = "품번"
     out_date_col = "업체 출고일"
     in_date_col = "RMA 수리 후 입고 일"
 
