@@ -33,3 +33,7 @@ Python 기반 RMA 미회수 재고 자동 분석 프로그램
 
 ```bash
 py main.py "sample_inventory.xlsx"
+
+## 실행 결과
+
+<img width="677" height="963" alt="image" src="https://github.com/user-attachments/assets/e272dab3-5e9c-4557-84dd-2df6f25dddc4" />
