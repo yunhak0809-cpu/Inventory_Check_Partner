@@ -36,4 +36,4 @@ py main.py "sample_inventory.xlsx"
 
 ## 실행 결과
 
-<img width="677" height="963" alt="image" src="https://github.com/user-attachments/assets/e272dab3-5e9c-4557-84dd-2df6f25dddc4" />
+Test_Result.PNG 참고
